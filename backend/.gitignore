@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+vayu_suchak.db
+vayu_suchak.db-journal
+venv/
+.coverage
+htmlcov/
