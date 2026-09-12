@@ -1,4 +1,4 @@
-# Vayu Suchak (वायु सूचक)
+# Vayu Suchak
 ### AQI Prediction & Health Advisory System
 
 Vayu Suchak is a full-stack, publicly accessible, no-login web application engineered for real-time air quality monitoring, autoregressive machine learning particulate forecasting, and AI-powered respiratory health advisories.
